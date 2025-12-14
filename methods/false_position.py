@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Function 9
 def f(x):
     return np.exp(x) - 3*x
 
