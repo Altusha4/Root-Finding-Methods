@@ -3,7 +3,6 @@
 A structured implementation of **numerical root-finding methods** for solving a
 nonlinear equation.  
 Developed using **Python**, **NumPy**, **Matplotlib**, and **Jupyter Notebook**
-as part of the **Numerical Methods / Computational Mathematics** course.
 
 ---
 
